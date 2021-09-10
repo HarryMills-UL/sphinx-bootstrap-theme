@@ -59,7 +59,7 @@ setup(
     ],
 
     install_requires=[
-        "setuptools==57.5.0",
+        "setuptools",
     ],
     entry_points = {
         'sphinx.html_themes': [
